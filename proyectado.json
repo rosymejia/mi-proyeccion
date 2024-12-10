@@ -1,25 +1,26 @@
+[
   {
     "category": "Gabeta01",
     "subcategory": "ala",
     "period": "Jan-2025",
     "ingresos": 1000,
-    "costos": '',
-    "gastos": ''
+    "costos": null,
+    "gastos": null
   },
   {
     "category": "Gabeta02",
     "subcategory": "ini",
     "period": "Jan-2025",
-    "ingresos": '',
+    "ingresos": null,
     "costos": 500,
-    "gastos": ''
+    "gastos": null
   },
   {
     "category": "Gabeta03",
     "subcategory": "ese",
     "period": "Jan-2025",
-    "ingresos": '',
-    "costos": '',
+    "ingresos": null,
+    "costos": null,
     "gastos": 250
   },
   {
@@ -27,22 +28,23 @@
     "subcategory": "ala",
     "period": "Dec-2025",
     "ingresos": 2000,
-    "costos": '',
-    "gastos": ''
+    "costos": null,
+    "gastos": null
   },
   {
     "category": "Gabeta02",
     "subcategory": "ini",
     "period": "Dec-2025",
-    "ingresos": '',
+    "ingresos": null,
     "costos": 500,
-    "gastos": ''
+    "gastos": null
   },
   {
     "category": "Gabeta03",
     "subcategory": "ese",
     "period": "Dec-2025",
-    "ingresos": '',
-    "costos": '',
+    "ingresos": null,
+    "costos": null,
     "gastos": 250
   }
+]
